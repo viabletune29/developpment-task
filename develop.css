@@ -1,0 +1,49 @@
+#header {
+    background-color: aqua;
+    color: white;
+    text-align: center;
+
+}
+
+#info {
+    color: black;
+    text-align: center;
+    background-color: white;
+}
+
+body {
+    background-color: rgb(98, 255, 0, 0.7);
+}
+
+#container {
+    color: violet;
+    text-align: center;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#list {
+    color: violet;
+    text-align: center;
+    background-color: darkgoldenrod;
+    margin: 10px;
+
+}
+
+body #content .names {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+    justify-content: center;
+}
+
+body #content .names .a {
+    margin: 10px;
+}
+
+#details {
+    color: black;
+    text-align: center;
+    background-color: rgb(13, 102, 7, 0.5);
+}
